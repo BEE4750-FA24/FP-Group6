@@ -1,3 +1,4 @@
-,Capacity,VarCost,Emissions
-NG,30,27.53453328,0.575830892
-Solar,28,0,0
+,Capacity,VarCost,Emissions,Conversion Factor (MWh/MMBTU)
+NG,30,27.53453328,0.575830892,0.083752094
+HPs,100,0,0,0.081408631
+ESH,,,,0.025707989
